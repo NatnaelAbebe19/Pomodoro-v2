@@ -12,7 +12,7 @@
 ## Screenshot
 ![App Screen shot](public/demo.png)
 
-<a href="https://pomodoro-timer-three-lyart.vercel.app/">CHECK</a>
+<a href="https://pomodoro-timer-three-lyart.vercel.app/" target="_blank">CHECK</a>
 
 ## Tech Stack
 
