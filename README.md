@@ -10,7 +10,7 @@
 - Optional audio notifications for session ends and breaks.
 
 ## Demo
-![App Screenshot](public/demo.png)
+![[App Screenshot](https://pomodoro-timer-three-lyart.vercel.app/)](public/demo.png)
 
 
 ## Tech Stack
