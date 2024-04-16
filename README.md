@@ -1,6 +1,5 @@
 
-# Pomodoro
-
+#  <img src="public/logo.png" width="50px"/> Pomodoro
 
 ## Increase focus and productivity with the Pomodoro Technique.
 
@@ -11,7 +10,7 @@
 - Optional audio notifications for session ends and breaks.
 
 ## Demo
-![App Screenshot]()
+![App Screenshot](public/demo.png)
 
 
 ## Tech Stack
