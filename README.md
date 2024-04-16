@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Pomodoro
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Increase focus and productivity with the Pomodoro Technique.
+
+- This app provides a simple timer and visual countdown to help you implement focused work sessions and refreshing breaks.
+
+- Set custom work and break durations.
+- Track remaining time with a clear timer.
+- Optional audio notifications for session ends and breaks.
+
+## Demo
+![App Screenshot]()
+
+
+## Tech Stack
+
+**Client:** 
+- React.JS
+- TailwindCSS 
+
+
