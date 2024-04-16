@@ -69,15 +69,18 @@ function Timer() {
 
   return (
     <div>
-      <CircularProgressbar
-        value={percentage}
-        text={minutes + ":" + seconds}
-        styles={buildStyles({
-          textColor: "#fff",
-          pathColor: mode === "Work" ? red : green,
-          trailColor: "#ffffffcc",
-        })}
-      />
+      <div className="shadow-2xl shadow-[#454c5d] bg-[#252b3a] rounded-full p-3">
+        <CircularProgressbar
+          value={percentage}
+          text={minutes + ":" + seconds}
+          styles={buildStyles({
+            textColor: "#fff",
+            pathColor: mode === "Work" ? red : green,
+            trailColor: "#ffffffcc",
+          })}
+          className="shadow-2xl rounded-full shadow-[#222]"
+        />
+      </div>
       <div className="mt-[20px] ">
         {isPaused ? (
           <PlayButton
