@@ -11,6 +11,9 @@ function App() {
 
   return (
     <main className="pt-[50px] max-w-[340px] mx-auto my-0 text-center">
+      <h2 className="py-6 text-4xl font-mono font-bold capitalize">
+        ደውል pomodoro
+      </h2>
       <SettingsContext.Provider
         value={{
           showSettings,
