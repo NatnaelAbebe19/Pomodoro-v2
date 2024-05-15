@@ -9,9 +9,10 @@
 - Track remaining time with a clear timer.
 - Optional audio notifications for session ends and breaks.
 
-## Demo
-![App Screenshot](public/demo.png)
+## Screenshot
+![App Screen shot](public/demo.png)
 
+<a href="https://pomodoro-timer-three-lyart.vercel.app/" target="_blank">CHECK</a>
 
 ## Tech Stack
 
